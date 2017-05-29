@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://vespagiatot.com/' target='_blank'><img src='http://vespagiatot.com/files/assets/Khuyenmai/khuyen_mai_medley1.jpg' width='500px'/><br/>Học SEO chuyên sâu</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://vespagiatot.com/' target='_blank'><img src='http://vespagiatot.com/files/assets/Khuyenmai/khuyen_mai_medley1.jpg' width='500px'/><br/>Vespa Giá Tốt</a>. Mua bán xe Vespa Piaggio chính hãng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
